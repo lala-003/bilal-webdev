@@ -1,0 +1,151 @@
+body {
+  color: #40514E;
+  line-height: 1.5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #eeeeee;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 35px 0 30px 0;
+}
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: #11999E;
+}
+.subheading{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2rem
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 1.5
+}
+.img-skillone {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.img-skilltwo {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile-image{
+  opacity: 0.8;
+  margin-top: 100px;
+  width: 15%;
+}
+.secondskill{
+  padding-top: 15px;
+}
+hr {
+  border: 1px dotted #99ddcc;
+  border-bottom: 0;
+  margin: 100px auto;
+  width: 5%;
+  border-width: 5px;
+}
+.end-footer{
+  font-size: .80rem;
+  padding: 10px 0;
+  color: #EAF6F6;
+}
+.btn {
+  text-decoration: none;
+  color: #EAF6F6;
+  background-color: #127681;
+  border-radius: 8px;
+  padding: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.before-button{
+  padding-bottom: 50px;
+}
+.footer-link{
+  padding: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.btn:hover{
+  background-color: #66BFBF;
+  color: black;
+}
+.description{
+  width: 50%;
+  margin: auto;
+}
+.sideimg1{
+  opacity: 0.2;
+  width: 5%;
+  position: absolute;
+  right: 100px;
+  top: 1000px;
+}
+.sideimg2{
+  opacity: 0.2;
+  width: 5%;
+  position: absolute;
+  left: 100px;
+  top: 1400px;
+}
+.sideimg3{
+  opacity: 0.2;
+  width: 5%;
+  position: absolute;
+  top: 2100px;
+  left: 100px;
+}
+.sideimg4{
+  opacity: 0.2;
+  width: 5%;
+  position: absolute;
+  top: 1800px;
+  right: 100px;
+}
